@@ -2,7 +2,7 @@
 
 * **과제명:** 능동형 손 재활 보조기 및 제어 시스템 개발
 * **작업일:** 2026년 11월 2일
-* **작업 장소:** 메이커스페이스 및 실습실
+* **작업 장소:** 메이커스페이스 및 실습실 및 clc 스터디룸1
 * **저장소:** [sweetndsour/capstone-2026](https://github.com/sweetndsour/capstone-2026)
 
 | 담당자 | 주요 작업 | 현재 상태 |
@@ -32,8 +32,8 @@
 * 연결이 안정되면 센서 원시값과 하중 변화에 따른 측정값 변화를 확인합니다.
 * 센서 반응을 확인한 후 영점 조정과 무게 보정을 진행합니다.
 
-> **사진 추가 위치 — 김한결 ①:** 납땜 보조 및 아두이노–HX711–로드셀 전체 연결 상태  
-> **사진 추가 위치 — 김한결 ②:** Arduino IDE 및 시리얼 모니터 테스트 화면
+> <img width="1859" height="926" alt="코드 사진" src="https://github.com/user-attachments/assets/6c4112cb-01d5-4aba-8bee-12b4632739aa" />
+
 
 ## 2. 강태우 — 납땜 및 손목 고정 기구 제작
 
@@ -51,7 +51,8 @@
 | 흰색 | A− |
 | 초록 | A+ |
 
-> **사진 추가 위치 — 강태우 ①:** HX711 핀 헤더 납땜부 및 로드셀 배선
+<img width="4000" height="3000" alt="납땜1" src="https://github.com/user-attachments/assets/64be59fa-0b8d-42ef-a957-ef559d4e3080" />
+
 
 ### 2.2. 손목 고정용 서보 받침판 제작
 
@@ -75,7 +76,9 @@
 
 * 최종 배치는 실제 구동 시 흔들림과 손목 간섭 여부를 확인한 뒤 결정할 예정입니다.
 
-> **사진 추가 위치 — 강태우 ④:** 서보 1개 세운 배치와 서보 2개 눕힌 배치 비교
+> <img width="3000" height="4000" alt="모터2" src="https://github.com/user-attachments/assets/79a83d5d-446f-4ee9-b5ea-51fc38f55ae9" />
+<img width="3000" height="4000" alt="모터1개" src="https://github.com/user-attachments/assets/41665789-ee47-4cde-b6f8-2f75710b88bd" />
+
 
 ### 2.4. 받침판 보완
 
