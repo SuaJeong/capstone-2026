@@ -51,10 +51,9 @@
 * **보완:**
   * 받침판 크기를 키우고, 고정 구멍 수를 **8개에서 4개로 줄여** 가장자리에서 충분히 떨어진 위치에 다시 뚫었습니다.
   * **보완한 받침판을 케이블타이로 보호밴드에 고정**했습니다.
-
-<img width="200" height="226" alt="1차 받침판을 보호밴드에 올린 사진" src="https://github.com/user-attachments/assets/93483223-5a0e-4f9e-b9c4-0ba9861889dc" />
-
-<!-- 이미지: 보완한 받침판과 고정 구멍 4곳 -->
+    
+<img width="300" height="330" alt="1차 받침판을 보호밴드에 올린 사진" src="https://github.com/user-attachments/assets/93483223-5a0e-4f9e-b9c4-0ba9861889dc" />
+<img width="420" height="330" alt="보완한 받침판과 고정 구멍 4곳" src="https://github.com/user-attachments/assets/27a3ea02-db0f-493e-b08b-a703ea97dfc5" />
 
 ## 4. 서보 배치 시안 비교 (담당: 강태우)
 * 받침판에 서보를 올려 두 가지 배치를 비교했습니다.
